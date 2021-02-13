@@ -10,6 +10,7 @@ Public Class LaporanJual
         DateTimePicker1.Format = DateTimePickerFormat.Custom
         DateTimePicker1.CustomFormat = "yyyy-MM-dd"
         GCjenis.Items.Clear()
+        GCjenis.Items.Add("KASIR")
         GCjenis.Items.Add("KOPI")
         GCjenis.Items.Add("HAIR STYLIST")
         GCjenis.Items.Add("CAPSTER")

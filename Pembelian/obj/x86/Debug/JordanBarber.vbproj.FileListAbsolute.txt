@@ -1988,3 +1988,11 @@ D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.time.reso
 D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
 D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
 D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\BARBER\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\BARBER\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\BARBER\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\BARBER\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\BARBER\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\BARBER\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\BARBER\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\BARBER\Pembelian\obj\x86\Debug\Pembelian.pdb
