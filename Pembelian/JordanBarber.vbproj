@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BE68D5D6-2802-41F4-B173-ED51E7C4A1E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pembelian.My.MyApplication</StartupObject>
+    <RootNamespace>Pembelian</RootNamespace>
+    <AssemblyName>Pembelian</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pembelian.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pembelian.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.Crystal, Version=5.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Aplikasi Pembelian\Ujicoba\Transaksi Permintaan\Transaksi Permintaan\bin\Debug\AxInterop.Crystal.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebDriver">
+      <HintPath>..\..\Project\APLIKASI\WA\WebDriver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="angsur.Designer.vb">
+      <DependentUpon>angsur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="angsur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BotWA.Designer.vb">
+      <DependentUpon>BotWA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BotWA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capster.Designer.vb">
+      <DependentUpon>capster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBarang.Designer.vb">
+      <DependentUpon>DataBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataCostumer.Designer.vb">
+      <DependentUpon>DataCostumer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataCostumer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataLayanan.Designer.vb">
+      <DependentUpon>DataLayanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataLayanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataKopi.Designer.vb">
+      <DependentUpon>DataKopi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataKopi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataProduk.Designer.vb">
+      <DependentUpon>DataProduk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fee.Designer.vb">
+      <DependentUpon>fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>MasterBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="elemen.Designer.vb">
+      <DependentUpon>elemen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="elemen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hairstylist2.Designer.vb">
+      <DependentUpon>hairstylist2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hairstylist2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keluar.Designer.vb">
+      <DependentUpon>keluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="keluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lapkopi.Designer.vb">
+      <DependentUpon>Lapkopi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Lapkopi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanBeli.Designer.vb">
+      <DependentUpon>LaporanBeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanBeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanJual.Designer.vb">
+      <DependentUpon>LaporanJual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanJual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterKategori.Designer.vb">
+      <DependentUpon>MasterKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterKopi.Designer.vb">
+      <DependentUpon>MasterKopi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterKopi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterLayanan.Designer.vb">
+      <DependentUpon>MasterLayanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterLayanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterPegawai.Designer.vb">
+      <DependentUpon>MasterPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterPelanggan1.Designer.vb">
+      <DependentUpon>MasterPelanggan1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPelanggan1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterSatuan.Designer.vb">
+      <DependentUpon>MasterSatuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterSatuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterSuplier.Designer.vb">
+      <DependentUpon>MasterSuplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterSuplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterUser.Designer.vb">
+      <DependentUpon>MasterUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Order Pembelian.Designer.vb">
+      <DependentUpon>Order Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pembelian.Designer.vb">
+      <DependentUpon>Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Penjualan.Designer.vb">
+      <DependentUpon>Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permintaan.Designer.vb">
+      <DependentUpon>Permintaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Permintaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="time.Designer.vb">
+      <DependentUpon>time.vb</DependentUpon>
+    </Compile>
+    <Compile Include="time.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WAgaji.Designer.vb">
+      <DependentUpon>WAgaji.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WAgaji.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WAstruk.Designer.vb">
+      <DependentUpon>WAstruk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WAstruk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="angsur.resx">
+      <DependentUpon>angsur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BotWA.resx">
+      <DependentUpon>BotWA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capster.resx">
+      <DependentUpon>capster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBarang.resx">
+      <DependentUpon>DataBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataCostumer.resx">
+      <DependentUpon>DataCostumer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataLayanan.resx">
+      <DependentUpon>DataLayanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataKopi.resx">
+      <DependentUpon>DataKopi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataProduk.resx">
+      <DependentUpon>DataProduk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="elemen.resx">
+      <DependentUpon>elemen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fee.resx">
+      <DependentUpon>fee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hairstylist2.resx">
+      <DependentUpon>hairstylist2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keluar.resx">
+      <DependentUpon>keluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lapkopi.resx">
+      <DependentUpon>Lapkopi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanBeli.resx">
+      <DependentUpon>LaporanBeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanJual.resx">
+      <DependentUpon>LaporanJual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterBarang.resx">
+      <DependentUpon>MasterBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterKategori.resx">
+      <DependentUpon>MasterKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterKopi.resx">
+      <DependentUpon>MasterKopi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterLayanan.resx">
+      <DependentUpon>MasterLayanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterPegawai.resx">
+      <DependentUpon>MasterPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterPelanggan1.resx">
+      <DependentUpon>MasterPelanggan1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterSatuan.resx">
+      <DependentUpon>MasterSatuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterSuplier.resx">
+      <DependentUpon>MasterSuplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterUser.resx">
+      <DependentUpon>MasterUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order Pembelian.resx">
+      <DependentUpon>Order Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pembelian.resx">
+      <DependentUpon>Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Penjualan.resx">
+      <DependentUpon>Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permintaan.resx">
+      <DependentUpon>Permintaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="time.resx">
+      <DependentUpon>time.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WAgaji.resx">
+      <DependentUpon>WAgaji.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WAstruk.resx">
+      <DependentUpon>WAstruk.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ccc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu2_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-male-user-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\019 Malibu Beach %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\019 Malibu Beach 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxCRVIEWERLib">
+      <Guid>{C4847593-972C-11D0-9567-00A0C9273C2A}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="CRVIEWERLib">
+      <Guid>{C4847593-972C-11D0-9567-00A0C9273C2A}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Acc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

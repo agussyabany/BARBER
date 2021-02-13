@@ -1,0 +1,1990 @@
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST2\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST3\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST4\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\BARBER LATEST5\Pembelian\bin\Debug\Pembelian.exe.config
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\BARBER LATEST5\Pembelian\bin\Debug\Pembelian.exe
+D:\BARBER LATEST5\Pembelian\bin\Debug\Pembelian.pdb
+D:\BARBER LATEST5\Pembelian\bin\Debug\Pembelian.xml
+D:\BARBER LATEST5\Pembelian\bin\Debug\Guna.UI.dll
+D:\BARBER LATEST5\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST5\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\BARBER LATEST5\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST5\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\BARBER LATEST5\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Pembelian.exe.config
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Pembelian.exe
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Pembelian.pdb
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Pembelian.xml
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Guna.UI.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\BARBER LATEST 6\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Data.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Deployment.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Drawing.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Management.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Web.Services.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Xml.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\WebDriver.dll
+D:\BARBER LATEST 6\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Pembelian.exe.config
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Pembelian.exe
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Pembelian.pdb
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Pembelian.xml
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Guna.UI.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Data.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Deployment.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Drawing.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Management.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Web.Services.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Xml.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\WebDriver.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 7\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\BARBER LATEST 7\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\BARBER LATEST 8\Pembelian\bin\Debug\Pembelian.exe.config
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\BARBER LATEST 8\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 9\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 10\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 11\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 12\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 13\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\bin\Debug\AxInterop.Crystal.dll
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 15\BARBER LATEST 14\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 16\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 17\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 18\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 19\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 19'\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 20\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 21\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 22\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Pembelian.exe.config
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Pembelian.exe
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Pembelian.pdb
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Pembelian.xml
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Guna.UI.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Data.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Deployment.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Drawing.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Management.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Web.Services.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Xml.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\SOURCECODE\BARBER LATEST 23\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 24\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.time.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 25\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.time.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 26\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 27\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.exe.config
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.exe
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.pdb
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.xml
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Guna.UI.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Data.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Deployment.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Drawing.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Management.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Web.Services.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Xml.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\BARBER LATEST 28\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\BARBER LATEST 28\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.exe.config
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.exe
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.pdb
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Pembelian.xml
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Guna.UI.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Data.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Deployment.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Drawing.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Management.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Web.Services.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Windows.Forms.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Xml.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\System.Xml.Linq.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Interop.Crystal.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.time.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+F:\Project\barber\BARBER LATEST 28\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 31\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.capster.resources
+D:\Project\APLIKASI\BARBER LATEST 32\Pembelian\obj\x86\Debug\Pembelian.hairstylist2.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.capster.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.hairstylist2.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 33\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 34\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\JordanBarber.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Data.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Deployment.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Drawing.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Management.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Web.Services.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Windows.Forms.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Xml.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\System.Xml.Linq.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\JordanBarber.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.angsur.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.BotWA.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.capster.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.DataBarang.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.DataCostumer.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.DataLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.DataKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.DataProduk.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.elemen.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.fee.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Form2.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.hairstylist2.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.keluar.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Lapkopi.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.LaporanBeli.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.LaporanJual.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterKategori.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterKopi.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterLayanan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Master_Pelanggan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterPelanggan1.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterSatuan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterSuplier.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MasterUser.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Pembelian.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Penjualan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.time.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.WAgaji.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\Pembelian.WAstruk.resources
+D:\Project\APLIKASI\BARBER LATEST 35\Pembelian\obj\x86\Debug\JordanBarber.vbproj.GenerateResource.Cache

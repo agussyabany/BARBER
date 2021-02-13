@@ -1,0 +1,341 @@
+D:\Project\Pembelian\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Pembelian\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Pembelian\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Pembelian\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Pembelian\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+G:\BACKup\Pembelian\Pembelian\obj\x86\Debug\Pembelian.exe
+G:\BACKup\Pembelian\Pembelian\obj\x86\Debug\Pembelian.xml
+G:\BACKup\Pembelian\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Pembelian2\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Pembelian2\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Pembelian2\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Pembelian2\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Pembelian2\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian3\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian4\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian5\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian6\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\Aplikasi Pembelian\Pembelian7\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian8\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.Cetak_BPP.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian9\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Cetak_BPP.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\Aplikasi Pembelian\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Cetak_BPP.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Cetak_BPP.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\APLIKASI\PEMBELIAN\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe.config
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.ResolveComReference.cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.exe
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.xml
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.pdb
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.exe
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.pdb
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Pembelian.xml
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Guna.UI.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\Interop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\bin\Debug\AxInterop.Crystal.dll
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbprojResolveAssemblyReference.cache
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Cetak_BPP.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DiposisiKabag.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Dirum.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.disposisi.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.DisposisiKAnggaran.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Form1.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.MenuUtama.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Resources.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Order_Pembelian.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.PelaksanaAnggaran.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.Permintaan.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.SBU.resources
+D:\Project\APLIKASI\barber\Pembelian10\Pembelian\obj\x86\Debug\Pembelian.vbproj.GenerateResource.Cache
