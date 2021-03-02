@@ -246,4 +246,8 @@ Public Class MenuUtama
     Private Sub GunaTextBox2_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaTextBox2.TextChanged
        
     End Sub
+
+    Private Sub GunaTileButton14_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaTileButton14.Click
+        gaji.ShowDialog()
+    End Sub
 End Class

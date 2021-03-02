@@ -22,10 +22,10 @@ Partial Class MasterLayanan
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MasterLayanan))
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MasterLayanan))
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.GunaButton6 = New Guna.UI.WinForms.GunaButton()
         Me.GunaLabel3 = New Guna.UI.WinForms.GunaLabel()
@@ -37,6 +37,7 @@ Partial Class MasterLayanan
         Me.GunaLabel1 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaLabel14 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaGroupBox1 = New Guna.UI.WinForms.GunaGroupBox()
+        Me.AxCrystalReport1 = New AxCrystal.AxCrystalReport()
         Me.GunaButton3 = New Guna.UI.WinForms.GunaButton()
         Me.GunaGroupBox2 = New Guna.UI.WinForms.GunaGroupBox()
         Me.GunaButton5 = New Guna.UI.WinForms.GunaButton()
@@ -44,12 +45,11 @@ Partial Class MasterLayanan
         Me.GunaButton2 = New Guna.UI.WinForms.GunaButton()
         Me.GunaButton1 = New Guna.UI.WinForms.GunaButton()
         Me.GunaButton4 = New Guna.UI.WinForms.GunaButton()
-        Me.AxCrystalReport1 = New AxCrystal.AxCrystalReport()
         Me.Panel1.SuspendLayout()
         Me.GunaGroupBox1.SuspendLayout()
+        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GunaGroupBox2.SuspendLayout()
         CType(Me.GunaDataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Panel1
@@ -69,7 +69,7 @@ Partial Class MasterLayanan
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(955, 387)
+        Me.Panel1.Size = New System.Drawing.Size(955, 439)
         Me.Panel1.TabIndex = 0
         '
         'GunaButton6
@@ -105,7 +105,7 @@ Partial Class MasterLayanan
         Me.GunaLabel3.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel3.Font = New System.Drawing.Font("Segoe UI", 18.0!)
         Me.GunaLabel3.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel3.Location = New System.Drawing.Point(22, 227)
+        Me.GunaLabel3.Location = New System.Drawing.Point(22, 190)
         Me.GunaLabel3.Name = "GunaLabel3"
         Me.GunaLabel3.Size = New System.Drawing.Size(47, 32)
         Me.GunaLabel3.TabIndex = 163
@@ -123,7 +123,7 @@ Partial Class MasterLayanan
         Me.GunaTextBox2.FocusedForeColor = System.Drawing.SystemColors.ControlText
         Me.GunaTextBox2.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GunaTextBox2.ForeColor = System.Drawing.Color.Black
-        Me.GunaTextBox2.Location = New System.Drawing.Point(96, 228)
+        Me.GunaTextBox2.Location = New System.Drawing.Point(96, 191)
         Me.GunaTextBox2.Name = "GunaTextBox2"
         Me.GunaTextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.GunaTextBox2.Radius = 6
@@ -137,7 +137,7 @@ Partial Class MasterLayanan
         Me.TBLevel.BackColor = System.Drawing.Color.Transparent
         Me.TBLevel.Font = New System.Drawing.Font("Segoe UI", 10.0!)
         Me.TBLevel.ForeColor = System.Drawing.Color.Black
-        Me.TBLevel.Location = New System.Drawing.Point(25, 200)
+        Me.TBLevel.Location = New System.Drawing.Point(25, 163)
         Me.TBLevel.Name = "TBLevel"
         Me.TBLevel.Size = New System.Drawing.Size(46, 19)
         Me.TBLevel.TabIndex = 138
@@ -155,7 +155,7 @@ Partial Class MasterLayanan
         Me.GunaTextBox1.FocusedForeColor = System.Drawing.SystemColors.ControlText
         Me.GunaTextBox1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GunaTextBox1.ForeColor = System.Drawing.Color.Black
-        Me.GunaTextBox1.Location = New System.Drawing.Point(96, 152)
+        Me.GunaTextBox1.Location = New System.Drawing.Point(96, 115)
         Me.GunaTextBox1.Name = "GunaTextBox1"
         Me.GunaTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.GunaTextBox1.Radius = 6
@@ -169,7 +169,7 @@ Partial Class MasterLayanan
         Me.GunaLabel2.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel2.Font = New System.Drawing.Font("Segoe UI", 10.0!)
         Me.GunaLabel2.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel2.Location = New System.Drawing.Point(98, 130)
+        Me.GunaLabel2.Location = New System.Drawing.Point(98, 93)
         Me.GunaLabel2.Name = "GunaLabel2"
         Me.GunaLabel2.Size = New System.Drawing.Size(107, 19)
         Me.GunaLabel2.TabIndex = 135
@@ -187,7 +187,7 @@ Partial Class MasterLayanan
         Me.TBuser.FocusedForeColor = System.Drawing.SystemColors.ControlText
         Me.TBuser.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TBuser.ForeColor = System.Drawing.Color.Black
-        Me.TBuser.Location = New System.Drawing.Point(23, 150)
+        Me.TBuser.Location = New System.Drawing.Point(23, 113)
         Me.TBuser.Name = "TBuser"
         Me.TBuser.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.TBuser.Radius = 6
@@ -201,7 +201,7 @@ Partial Class MasterLayanan
         Me.GunaLabel1.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel1.Font = New System.Drawing.Font("Segoe UI", 10.0!)
         Me.GunaLabel1.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel1.Location = New System.Drawing.Point(25, 128)
+        Me.GunaLabel1.Location = New System.Drawing.Point(25, 91)
         Me.GunaLabel1.Name = "GunaLabel1"
         Me.GunaLabel1.Size = New System.Drawing.Size(47, 19)
         Me.GunaLabel1.TabIndex = 133
@@ -213,7 +213,7 @@ Partial Class MasterLayanan
         Me.GunaLabel14.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel14.Font = New System.Drawing.Font("Segoe UI", 18.0!)
         Me.GunaLabel14.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel14.Location = New System.Drawing.Point(367, 28)
+        Me.GunaLabel14.Location = New System.Drawing.Point(369, 16)
         Me.GunaLabel14.Name = "GunaLabel14"
         Me.GunaLabel14.Size = New System.Drawing.Size(213, 32)
         Me.GunaLabel14.TabIndex = 132
@@ -225,16 +225,29 @@ Partial Class MasterLayanan
         Me.GunaGroupBox1.BaseColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaGroupBox1.BorderColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox1.BorderSize = 3
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton5)
         Me.GunaGroupBox1.Controls.Add(Me.AxCrystalReport1)
         Me.GunaGroupBox1.Controls.Add(Me.GunaButton3)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton4)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton2)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton1)
         Me.GunaGroupBox1.LineColor = System.Drawing.Color.Gainsboro
-        Me.GunaGroupBox1.Location = New System.Drawing.Point(12, 77)
+        Me.GunaGroupBox1.Location = New System.Drawing.Point(12, 51)
         Me.GunaGroupBox1.Name = "GunaGroupBox1"
         Me.GunaGroupBox1.Radius = 5
-        Me.GunaGroupBox1.Size = New System.Drawing.Size(464, 297)
+        Me.GunaGroupBox1.Size = New System.Drawing.Size(464, 376)
         Me.GunaGroupBox1.TabIndex = 165
         Me.GunaGroupBox1.Text = "IDENTITAS LAYANAN"
         Me.GunaGroupBox1.TextLocation = New System.Drawing.Point(10, 8)
+        '
+        'AxCrystalReport1
+        '
+        Me.AxCrystalReport1.Enabled = True
+        Me.AxCrystalReport1.Location = New System.Drawing.Point(11, 247)
+        Me.AxCrystalReport1.Name = "AxCrystalReport1"
+        Me.AxCrystalReport1.OcxState = CType(resources.GetObject("AxCrystalReport1.OcxState"), System.Windows.Forms.AxHost.State)
+        Me.AxCrystalReport1.Size = New System.Drawing.Size(28, 28)
+        Me.AxCrystalReport1.TabIndex = 142
         '
         'GunaButton3
         '
@@ -250,7 +263,7 @@ Partial Class MasterLayanan
         Me.GunaButton3.ForeColor = System.Drawing.Color.Black
         Me.GunaButton3.Image = Nothing
         Me.GunaButton3.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton3.Location = New System.Drawing.Point(16, 219)
+        Me.GunaButton3.Location = New System.Drawing.Point(13, 187)
         Me.GunaButton3.Name = "GunaButton3"
         Me.GunaButton3.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton3.OnHoverBorderColor = System.Drawing.Color.White
@@ -269,16 +282,12 @@ Partial Class MasterLayanan
         Me.GunaGroupBox2.BaseColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaGroupBox2.BorderColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox2.BorderSize = 3
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton5)
         Me.GunaGroupBox2.Controls.Add(Me.GunaDataGridView1)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton2)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton1)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton4)
         Me.GunaGroupBox2.LineColor = System.Drawing.Color.Gainsboro
-        Me.GunaGroupBox2.Location = New System.Drawing.Point(482, 77)
+        Me.GunaGroupBox2.Location = New System.Drawing.Point(482, 54)
         Me.GunaGroupBox2.Name = "GunaGroupBox2"
         Me.GunaGroupBox2.Radius = 5
-        Me.GunaGroupBox2.Size = New System.Drawing.Size(461, 297)
+        Me.GunaGroupBox2.Size = New System.Drawing.Size(461, 373)
         Me.GunaGroupBox2.TabIndex = 166
         Me.GunaGroupBox2.Text = "DATA LAYANAN"
         Me.GunaGroupBox2.TextLocation = New System.Drawing.Point(10, 8)
@@ -298,7 +307,7 @@ Partial Class MasterLayanan
         Me.GunaButton5.Image = CType(resources.GetObject("GunaButton5.Image"), System.Drawing.Image)
         Me.GunaButton5.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center
         Me.GunaButton5.ImageSize = New System.Drawing.Size(40, 40)
-        Me.GunaButton5.Location = New System.Drawing.Point(356, 240)
+        Me.GunaButton5.Location = New System.Drawing.Point(346, 319)
         Me.GunaButton5.Name = "GunaButton5"
         Me.GunaButton5.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton5.OnHoverBorderColor = System.Drawing.Color.White
@@ -342,7 +351,7 @@ Partial Class MasterLayanan
         Me.GunaDataGridView1.Name = "GunaDataGridView1"
         Me.GunaDataGridView1.RowHeadersVisible = False
         Me.GunaDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.GunaDataGridView1.Size = New System.Drawing.Size(432, 198)
+        Me.GunaDataGridView1.Size = New System.Drawing.Size(432, 327)
         Me.GunaDataGridView1.TabIndex = 156
         Me.GunaDataGridView1.Theme = Guna.UI.WinForms.GunaDataGridViewPresetThemes.Guna
         Me.GunaDataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White
@@ -381,7 +390,7 @@ Partial Class MasterLayanan
         Me.GunaButton2.ForeColor = System.Drawing.Color.Black
         Me.GunaButton2.Image = Nothing
         Me.GunaButton2.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton2.Location = New System.Drawing.Point(120, 247)
+        Me.GunaButton2.Location = New System.Drawing.Point(173, 277)
         Me.GunaButton2.Name = "GunaButton2"
         Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton2.OnHoverBorderColor = System.Drawing.Color.White
@@ -408,7 +417,7 @@ Partial Class MasterLayanan
         Me.GunaButton1.ForeColor = System.Drawing.Color.Black
         Me.GunaButton1.Image = Nothing
         Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton1.Location = New System.Drawing.Point(20, 247)
+        Me.GunaButton1.Location = New System.Drawing.Point(17, 277)
         Me.GunaButton1.Name = "GunaButton1"
         Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.White
@@ -435,7 +444,7 @@ Partial Class MasterLayanan
         Me.GunaButton4.ForeColor = System.Drawing.Color.Black
         Me.GunaButton4.Image = Nothing
         Me.GunaButton4.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton4.Location = New System.Drawing.Point(220, 247)
+        Me.GunaButton4.Location = New System.Drawing.Point(346, 277)
         Me.GunaButton4.Name = "GunaButton4"
         Me.GunaButton4.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton4.OnHoverBorderColor = System.Drawing.Color.White
@@ -448,20 +457,11 @@ Partial Class MasterLayanan
         Me.GunaButton4.Text = "BATAL"
         Me.GunaButton4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'AxCrystalReport1
-        '
-        Me.AxCrystalReport1.Enabled = True
-        Me.AxCrystalReport1.Location = New System.Drawing.Point(11, 247)
-        Me.AxCrystalReport1.Name = "AxCrystalReport1"
-        Me.AxCrystalReport1.OcxState = CType(resources.GetObject("AxCrystalReport1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxCrystalReport1.Size = New System.Drawing.Size(28, 28)
-        Me.AxCrystalReport1.TabIndex = 142
-        '
         'MasterLayanan
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(955, 387)
+        Me.ClientSize = New System.Drawing.Size(955, 439)
         Me.Controls.Add(Me.Panel1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "MasterLayanan"
@@ -470,9 +470,9 @@ Partial Class MasterLayanan
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
         Me.GunaGroupBox1.ResumeLayout(False)
+        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GunaGroupBox2.ResumeLayout(False)
         CType(Me.GunaDataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

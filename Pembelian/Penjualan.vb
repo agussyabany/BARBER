@@ -526,4 +526,12 @@ Public Class Penjualan
     Private Sub GunaButton6_Click_2(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaButton6.Click
         Form2.ShowDialog()
     End Sub
+
+    Private Sub TBtime_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TBtime.TextChanged
+
+    End Sub
+
+    Private Sub TBhp_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TBhp.TextChanged
+
+    End Sub
 End Class

@@ -10,11 +10,9 @@ Public Class LaporanJual
         DateTimePicker1.Format = DateTimePickerFormat.Custom
         DateTimePicker1.CustomFormat = "yyyy-MM-dd"
         GCjenis.Items.Clear()
-        GCjenis.Items.Add("KASIR")
+
         GCjenis.Items.Add("KOPI")
-        GCjenis.Items.Add("HAIR STYLIST")
-        GCjenis.Items.Add("CAPSTER")
-        GCjenis.Items.Add("HAIRSTYLIST2")
+        GCjenis.Items.Add("PER PEGAWAI")
         GCjenis.Items.Add("SEMUA DATA")
         GCjenis.Items.Add("TAHUN")
         GCjenis.Items.Add("BULAN")
@@ -124,7 +122,7 @@ Public Class LaporanJual
 
 
                     Else
-                        If GCjenis.Text = "HAIR STYLIST" Then
+                        If GCjenis.Text = "PER PEGAWAI" Then
                             Form2.ShowDialog()
                         Else
                             If GCjenis.Text = "KOPI" Then

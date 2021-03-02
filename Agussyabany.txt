@@ -1,0 +1,17 @@
+1.Produk tester catatan sendiri
+2.Cek fee berdasar bulan
+3.Data tahun lalu
+4.Kehadiran kasir
+5.Input Kasbon
+6.Lembur Kasir 15.000
+
+
+
+HS 1 40%
+Pelayanan
+Fee Layanan
+Fee Produk
+Kasbon
+Potongan
+
+HS 2 32%

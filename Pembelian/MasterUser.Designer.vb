@@ -59,7 +59,6 @@ Partial Class MasterUser
         Me.GunaPanel1.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.GunaPanel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.GunaPanel1.Controls.Add(Me.GunaDataGridView1)
         Me.GunaPanel1.Controls.Add(Me.GunaTextBox2)
         Me.GunaPanel1.Controls.Add(Me.GunaButton2)
         Me.GunaPanel1.Controls.Add(Me.GunaLabel4)
@@ -77,7 +76,7 @@ Partial Class MasterUser
         Me.GunaPanel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.GunaPanel1.Location = New System.Drawing.Point(0, 0)
         Me.GunaPanel1.Name = "GunaPanel1"
-        Me.GunaPanel1.Size = New System.Drawing.Size(486, 602)
+        Me.GunaPanel1.Size = New System.Drawing.Size(952, 454)
         Me.GunaPanel1.TabIndex = 0
         '
         'GunaDataGridView1
@@ -108,11 +107,11 @@ Partial Class MasterUser
         Me.GunaDataGridView1.DefaultCellStyle = DataGridViewCellStyle3
         Me.GunaDataGridView1.EnableHeadersVisualStyles = False
         Me.GunaDataGridView1.GridColor = System.Drawing.Color.FromArgb(CType(CType(231, Byte), Integer), CType(CType(229, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.GunaDataGridView1.Location = New System.Drawing.Point(27, 419)
+        Me.GunaDataGridView1.Location = New System.Drawing.Point(19, 39)
         Me.GunaDataGridView1.Name = "GunaDataGridView1"
         Me.GunaDataGridView1.RowHeadersVisible = False
         Me.GunaDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.GunaDataGridView1.Size = New System.Drawing.Size(422, 159)
+        Me.GunaDataGridView1.Size = New System.Drawing.Size(422, 331)
         Me.GunaDataGridView1.TabIndex = 110
         Me.GunaDataGridView1.Theme = Guna.UI.WinForms.GunaDataGridViewPresetThemes.Guna
         Me.GunaDataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White
@@ -172,7 +171,7 @@ Partial Class MasterUser
         Me.GunaButton2.ForeColor = System.Drawing.Color.Black
         Me.GunaButton2.Image = Nothing
         Me.GunaButton2.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton2.Location = New System.Drawing.Point(428, 9)
+        Me.GunaButton2.Location = New System.Drawing.Point(893, 7)
         Me.GunaButton2.Name = "GunaButton2"
         Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton2.OnHoverBorderColor = System.Drawing.Color.White
@@ -235,7 +234,7 @@ Partial Class MasterUser
         Me.GunaLabel14.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel14.Font = New System.Drawing.Font("Segoe UI", 18.0!)
         Me.GunaLabel14.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel14.Location = New System.Drawing.Point(158, 7)
+        Me.GunaLabel14.Location = New System.Drawing.Point(404, 7)
         Me.GunaLabel14.Name = "GunaLabel14"
         Me.GunaLabel14.Size = New System.Drawing.Size(166, 32)
         Me.GunaLabel14.TabIndex = 96
@@ -334,13 +333,17 @@ Partial Class MasterUser
         Me.GunaGroupBox1.BorderColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox1.BorderSize = 3
         Me.GunaGroupBox1.Controls.Add(Me.TBNama)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton5)
         Me.GunaGroupBox1.Controls.Add(Me.GunaLabel3)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton1)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton3)
         Me.GunaGroupBox1.Controls.Add(Me.GunaLabel2)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton4)
         Me.GunaGroupBox1.LineColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox1.Location = New System.Drawing.Point(5, 51)
         Me.GunaGroupBox1.Name = "GunaGroupBox1"
         Me.GunaGroupBox1.Radius = 5
-        Me.GunaGroupBox1.Size = New System.Drawing.Size(469, 237)
+        Me.GunaGroupBox1.Size = New System.Drawing.Size(469, 390)
         Me.GunaGroupBox1.TabIndex = 112
         Me.GunaGroupBox1.Text = "DATA USER"
         Me.GunaGroupBox1.TextLocation = New System.Drawing.Point(10, 8)
@@ -395,15 +398,12 @@ Partial Class MasterUser
         Me.GunaGroupBox2.BaseColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaGroupBox2.BorderColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox2.BorderSize = 3
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton5)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton1)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton3)
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton4)
+        Me.GunaGroupBox2.Controls.Add(Me.GunaDataGridView1)
         Me.GunaGroupBox2.LineColor = System.Drawing.Color.Gainsboro
-        Me.GunaGroupBox2.Location = New System.Drawing.Point(5, 294)
+        Me.GunaGroupBox2.Location = New System.Drawing.Point(480, 51)
         Me.GunaGroupBox2.Name = "GunaGroupBox2"
         Me.GunaGroupBox2.Radius = 5
-        Me.GunaGroupBox2.Size = New System.Drawing.Size(469, 294)
+        Me.GunaGroupBox2.Size = New System.Drawing.Size(459, 390)
         Me.GunaGroupBox2.TabIndex = 113
         Me.GunaGroupBox2.TextLocation = New System.Drawing.Point(10, 8)
         '
@@ -421,7 +421,7 @@ Partial Class MasterUser
         Me.GunaButton5.ForeColor = System.Drawing.Color.Black
         Me.GunaButton5.Image = Nothing
         Me.GunaButton5.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton5.Location = New System.Drawing.Point(178, 83)
+        Me.GunaButton5.Location = New System.Drawing.Point(185, 319)
         Me.GunaButton5.Name = "GunaButton5"
         Me.GunaButton5.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton5.OnHoverBorderColor = System.Drawing.Color.White
@@ -448,7 +448,7 @@ Partial Class MasterUser
         Me.GunaButton1.ForeColor = System.Drawing.Color.Black
         Me.GunaButton1.Image = Nothing
         Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton1.Location = New System.Drawing.Point(17, 39)
+        Me.GunaButton1.Location = New System.Drawing.Point(24, 232)
         Me.GunaButton1.Name = "GunaButton1"
         Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.White
@@ -456,7 +456,7 @@ Partial Class MasterUser
         Me.GunaButton1.OnHoverImage = Nothing
         Me.GunaButton1.OnPressedColor = System.Drawing.Color.Black
         Me.GunaButton1.Radius = 6
-        Me.GunaButton1.Size = New System.Drawing.Size(422, 36)
+        Me.GunaButton1.Size = New System.Drawing.Size(422, 59)
         Me.GunaButton1.TabIndex = 68
         Me.GunaButton1.Text = "TAMBAH"
         Me.GunaButton1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
@@ -475,7 +475,7 @@ Partial Class MasterUser
         Me.GunaButton3.ForeColor = System.Drawing.Color.Black
         Me.GunaButton3.Image = Nothing
         Me.GunaButton3.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton3.Location = New System.Drawing.Point(17, 83)
+        Me.GunaButton3.Location = New System.Drawing.Point(26, 319)
         Me.GunaButton3.Name = "GunaButton3"
         Me.GunaButton3.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton3.OnHoverBorderColor = System.Drawing.Color.White
@@ -502,7 +502,7 @@ Partial Class MasterUser
         Me.GunaButton4.ForeColor = System.Drawing.Color.Black
         Me.GunaButton4.Image = Nothing
         Me.GunaButton4.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton4.Location = New System.Drawing.Point(336, 83)
+        Me.GunaButton4.Location = New System.Drawing.Point(343, 319)
         Me.GunaButton4.Name = "GunaButton4"
         Me.GunaButton4.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton4.OnHoverBorderColor = System.Drawing.Color.White
@@ -519,7 +519,7 @@ Partial Class MasterUser
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(486, 602)
+        Me.ClientSize = New System.Drawing.Size(952, 454)
         Me.Controls.Add(Me.GunaPanel1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "MasterUser"

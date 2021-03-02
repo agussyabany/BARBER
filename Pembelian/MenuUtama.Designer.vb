@@ -245,7 +245,7 @@ Partial Class MenuUtama
         Me.GunaAdvenceButton3.OnPressedColor = System.Drawing.Color.Black
         Me.GunaAdvenceButton3.Size = New System.Drawing.Size(215, 68)
         Me.GunaAdvenceButton3.TabIndex = 4
-        Me.GunaAdvenceButton3.Text = "SETTING"
+        Me.GunaAdvenceButton3.Text = "PAYMENT"
         Me.GunaAdvenceButton3.TextOffsetX = 10
         '
         'GunaAdvenceButton2
@@ -366,7 +366,7 @@ Partial Class MenuUtama
         Me.GunaLabel4.ForeColor = System.Drawing.Color.White
         Me.GunaLabel4.Location = New System.Drawing.Point(288, 154)
         Me.GunaLabel4.Name = "GunaLabel4"
-        Me.GunaLabel4.Size = New System.Drawing.Size(84, 32)
+        Me.GunaLabel4.Size = New System.Drawing.Size(83, 32)
         Me.GunaLabel4.TabIndex = 9
         Me.GunaLabel4.Text = "LOGIN"
         '
@@ -415,7 +415,6 @@ Partial Class MenuUtama
         Me.GunaTextBox2.Radius = 6
         Me.GunaTextBox2.Size = New System.Drawing.Size(233, 37)
         Me.GunaTextBox2.TabIndex = 7
-        Me.GunaTextBox2.Text = "khusnul123"
         Me.GunaTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'GunaButton1
@@ -463,7 +462,6 @@ Partial Class MenuUtama
         Me.GunaTextBox1.Radius = 6
         Me.GunaTextBox1.Size = New System.Drawing.Size(233, 37)
         Me.GunaTextBox1.TabIndex = 4
-        Me.GunaTextBox1.Text = "khusnul"
         Me.GunaTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'GunaPanel2
@@ -837,7 +835,7 @@ Partial Class MenuUtama
         Me.GunaLabel3.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Bold)
         Me.GunaLabel3.Location = New System.Drawing.Point(13, 9)
         Me.GunaLabel3.Name = "GunaLabel3"
-        Me.GunaLabel3.Size = New System.Drawing.Size(120, 21)
+        Me.GunaLabel3.Size = New System.Drawing.Size(118, 21)
         Me.GunaLabel3.TabIndex = 0
         Me.GunaLabel3.Text = "DATA MASTER"
         '
@@ -1077,7 +1075,7 @@ Partial Class MenuUtama
         Me.GunaTileButton14.OnPressedColor = System.Drawing.Color.Black
         Me.GunaTileButton14.Size = New System.Drawing.Size(190, 160)
         Me.GunaTileButton14.TabIndex = 13
-        Me.GunaTileButton14.Text = "PEGAWAI"
+        Me.GunaTileButton14.Text = "GAJI PEGAWAI"
         Me.GunaTileButton14.TextImageOffsetY = 10
         '
         'GunaPanel5

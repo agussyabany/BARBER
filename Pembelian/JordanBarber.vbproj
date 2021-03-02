@@ -186,6 +186,12 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="gaji.Designer.vb">
+      <DependentUpon>gaji.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gaji.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="hairstylist2.Designer.vb">
       <DependentUpon>hairstylist2.vb</DependentUpon>
     </Compile>
@@ -365,6 +371,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gaji.resx">
+      <DependentUpon>gaji.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="hairstylist2.resx">
       <DependentUpon>hairstylist2.vb</DependentUpon>

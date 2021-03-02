@@ -6,11 +6,7 @@ Pembelian
 </name>
 </assembly>
 <members>
-<member name="T:Pembelian.DataSet1">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="P:Pembelian.My.Resources.Resources.ResourceManager">
+<member name="P:Pembelian.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
@@ -58,6 +54,10 @@ Represents a strongly typed in-memory cache of data.
 </member><member name="T:Pembelian.My.Resources.Resources">
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Pembelian.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
 </summary>
 </member>
 </members>

@@ -62,7 +62,7 @@ Public Class Master_Pelanggan
         GunaComboBox1.Enabled = True
         GunaComboBox1.Items.Add("KASIR")
         GunaComboBox1.Items.Add("HAIR STYLIST")
-        GunaComboBox1.Items.Add("HAIRSTYLIST2")
+        GunaComboBox1.Items.Add("BARBER")
         GunaComboBox1.Items.Add("CAPSTER")
         GunaComboBox1.Items.Add("FREELANCE")
         GunaComboBox1.Items.Add("ADMIN")
@@ -204,6 +204,10 @@ Public Class Master_Pelanggan
     End Sub
 
     Private Sub GunaTextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaTextBox1.TextChanged
+
+    End Sub
+
+    Private Sub GunaComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaComboBox1.SelectedIndexChanged
 
     End Sub
 End Class

@@ -22,49 +22,44 @@ Partial Class Master_Pelanggan
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Master_Pelanggan))
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Master_Pelanggan))
         Me.GunaLinePanel1 = New Guna.UI.WinForms.GunaLinePanel()
+        Me.AxCrystalReport1 = New AxCrystal.AxCrystalReport()
         Me.GunaButton6 = New Guna.UI.WinForms.GunaButton()
         Me.GunaButton5 = New Guna.UI.WinForms.GunaButton()
         Me.GunaDataGridView1 = New Guna.UI.WinForms.GunaDataGridView()
         Me.GunaButton2 = New Guna.UI.WinForms.GunaButton()
         Me.GunaButton4 = New Guna.UI.WinForms.GunaButton()
         Me.GunaButton3 = New Guna.UI.WinForms.GunaButton()
-        Me.GunaTextBox1 = New Guna.UI.WinForms.GunaTextBox()
         Me.TBPass = New Guna.UI.WinForms.GunaLabel()
         Me.GunaLabel14 = New Guna.UI.WinForms.GunaLabel()
         Me.TBNama = New Guna.UI.WinForms.GunaTextBox()
-        Me.TBuser = New Guna.UI.WinForms.GunaTextBox()
         Me.TBLevel = New Guna.UI.WinForms.GunaLabel()
         Me.GunaLabel2 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaComboBox1 = New Guna.UI.WinForms.GunaComboBox()
-        Me.GunaButton1 = New Guna.UI.WinForms.GunaButton()
         Me.GunaLabel1 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaGroupBox1 = New Guna.UI.WinForms.GunaGroupBox()
-        Me.GunaGroupBox2 = New Guna.UI.WinForms.GunaGroupBox()
         Me.GunaTextBox2 = New Guna.UI.WinForms.GunaTextBox()
         Me.GunaLabel3 = New Guna.UI.WinForms.GunaLabel()
-        Me.AxCrystalReport1 = New AxCrystal.AxCrystalReport()
+        Me.TBuser = New Guna.UI.WinForms.GunaTextBox()
+        Me.GunaTextBox1 = New Guna.UI.WinForms.GunaTextBox()
+        Me.GunaGroupBox2 = New Guna.UI.WinForms.GunaGroupBox()
+        Me.GunaButton1 = New Guna.UI.WinForms.GunaButton()
         Me.GunaLinePanel1.SuspendLayout()
+        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.GunaDataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GunaGroupBox1.SuspendLayout()
         Me.GunaGroupBox2.SuspendLayout()
-        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'GunaLinePanel1
         '
         Me.GunaLinePanel1.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaLinePanel1.Controls.Add(Me.AxCrystalReport1)
-        Me.GunaLinePanel1.Controls.Add(Me.GunaButton6)
-        Me.GunaLinePanel1.Controls.Add(Me.GunaButton5)
-        Me.GunaLinePanel1.Controls.Add(Me.GunaDataGridView1)
         Me.GunaLinePanel1.Controls.Add(Me.GunaButton2)
-        Me.GunaLinePanel1.Controls.Add(Me.GunaButton4)
-        Me.GunaLinePanel1.Controls.Add(Me.GunaButton3)
         Me.GunaLinePanel1.Controls.Add(Me.TBPass)
         Me.GunaLinePanel1.Controls.Add(Me.GunaLabel14)
         Me.GunaLinePanel1.Controls.Add(Me.TBNama)
@@ -79,8 +74,17 @@ Partial Class Master_Pelanggan
         Me.GunaLinePanel1.LineStyle = System.Windows.Forms.BorderStyle.None
         Me.GunaLinePanel1.Location = New System.Drawing.Point(0, 0)
         Me.GunaLinePanel1.Name = "GunaLinePanel1"
-        Me.GunaLinePanel1.Size = New System.Drawing.Size(477, 678)
+        Me.GunaLinePanel1.Size = New System.Drawing.Size(935, 499)
         Me.GunaLinePanel1.TabIndex = 0
+        '
+        'AxCrystalReport1
+        '
+        Me.AxCrystalReport1.Enabled = True
+        Me.AxCrystalReport1.Location = New System.Drawing.Point(27, 638)
+        Me.AxCrystalReport1.Name = "AxCrystalReport1"
+        Me.AxCrystalReport1.OcxState = CType(resources.GetObject("AxCrystalReport1.OcxState"), System.Windows.Forms.AxHost.State)
+        Me.AxCrystalReport1.Size = New System.Drawing.Size(28, 28)
+        Me.AxCrystalReport1.TabIndex = 151
         '
         'GunaButton6
         '
@@ -97,7 +101,7 @@ Partial Class Master_Pelanggan
         Me.GunaButton6.Image = CType(resources.GetObject("GunaButton6.Image"), System.Drawing.Image)
         Me.GunaButton6.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center
         Me.GunaButton6.ImageSize = New System.Drawing.Size(40, 40)
-        Me.GunaButton6.Location = New System.Drawing.Point(383, 629)
+        Me.GunaButton6.Location = New System.Drawing.Point(354, 285)
         Me.GunaButton6.Name = "GunaButton6"
         Me.GunaButton6.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton6.OnHoverBorderColor = System.Drawing.Color.White
@@ -123,7 +127,7 @@ Partial Class Master_Pelanggan
         Me.GunaButton5.ForeColor = System.Drawing.Color.Black
         Me.GunaButton5.Image = Nothing
         Me.GunaButton5.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton5.Location = New System.Drawing.Point(186, 451)
+        Me.GunaButton5.Location = New System.Drawing.Point(173, 398)
         Me.GunaButton5.Name = "GunaButton5"
         Me.GunaButton5.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton5.OnHoverBorderColor = System.Drawing.Color.White
@@ -164,11 +168,11 @@ Partial Class Master_Pelanggan
         Me.GunaDataGridView1.DefaultCellStyle = DataGridViewCellStyle3
         Me.GunaDataGridView1.EnableHeadersVisualStyles = False
         Me.GunaDataGridView1.GridColor = System.Drawing.Color.FromArgb(CType(CType(231, Byte), Integer), CType(CType(229, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.GunaDataGridView1.Location = New System.Drawing.Point(27, 493)
+        Me.GunaDataGridView1.Location = New System.Drawing.Point(12, 34)
         Me.GunaDataGridView1.Name = "GunaDataGridView1"
         Me.GunaDataGridView1.RowHeadersVisible = False
         Me.GunaDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.GunaDataGridView1.Size = New System.Drawing.Size(426, 92)
+        Me.GunaDataGridView1.Size = New System.Drawing.Size(426, 400)
         Me.GunaDataGridView1.TabIndex = 128
         Me.GunaDataGridView1.Theme = Guna.UI.WinForms.GunaDataGridViewPresetThemes.Guna
         Me.GunaDataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White
@@ -207,7 +211,7 @@ Partial Class Master_Pelanggan
         Me.GunaButton2.ForeColor = System.Drawing.Color.Black
         Me.GunaButton2.Image = Nothing
         Me.GunaButton2.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton2.Location = New System.Drawing.Point(424, 4)
+        Me.GunaButton2.Location = New System.Drawing.Point(884, 5)
         Me.GunaButton2.Name = "GunaButton2"
         Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton2.OnHoverBorderColor = System.Drawing.Color.White
@@ -234,7 +238,7 @@ Partial Class Master_Pelanggan
         Me.GunaButton4.ForeColor = System.Drawing.Color.Black
         Me.GunaButton4.Image = Nothing
         Me.GunaButton4.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton4.Location = New System.Drawing.Point(348, 451)
+        Me.GunaButton4.Location = New System.Drawing.Point(338, 398)
         Me.GunaButton4.Name = "GunaButton4"
         Me.GunaButton4.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton4.OnHoverBorderColor = System.Drawing.Color.White
@@ -261,7 +265,7 @@ Partial Class Master_Pelanggan
         Me.GunaButton3.ForeColor = System.Drawing.Color.Black
         Me.GunaButton3.Image = Nothing
         Me.GunaButton3.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton3.Location = New System.Drawing.Point(29, 450)
+        Me.GunaButton3.Location = New System.Drawing.Point(17, 398)
         Me.GunaButton3.Name = "GunaButton3"
         Me.GunaButton3.OnHoverBaseColor = System.Drawing.Color.White
         Me.GunaButton3.OnHoverBorderColor = System.Drawing.Color.White
@@ -273,26 +277,6 @@ Partial Class Master_Pelanggan
         Me.GunaButton3.TabIndex = 123
         Me.GunaButton3.Text = "UBAH"
         Me.GunaButton3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'GunaTextBox1
-        '
-        Me.GunaTextBox1.BackColor = System.Drawing.Color.Transparent
-        Me.GunaTextBox1.BaseColor = System.Drawing.Color.WhiteSmoke
-        Me.GunaTextBox1.BorderColor = System.Drawing.Color.Silver
-        Me.GunaTextBox1.BorderSize = 0
-        Me.GunaTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.GunaTextBox1.FocusedBaseColor = System.Drawing.Color.White
-        Me.GunaTextBox1.FocusedBorderColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.GunaTextBox1.FocusedForeColor = System.Drawing.SystemColors.ControlText
-        Me.GunaTextBox1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GunaTextBox1.ForeColor = System.Drawing.Color.Black
-        Me.GunaTextBox1.Location = New System.Drawing.Point(17, 165)
-        Me.GunaTextBox1.Name = "GunaTextBox1"
-        Me.GunaTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.GunaTextBox1.Radius = 6
-        Me.GunaTextBox1.Size = New System.Drawing.Size(417, 34)
-        Me.GunaTextBox1.TabIndex = 121
-        Me.GunaTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TBPass
         '
@@ -312,9 +296,9 @@ Partial Class Master_Pelanggan
         Me.GunaLabel14.BackColor = System.Drawing.Color.Transparent
         Me.GunaLabel14.Font = New System.Drawing.Font("Segoe UI", 18.0!)
         Me.GunaLabel14.ForeColor = System.Drawing.Color.Black
-        Me.GunaLabel14.Location = New System.Drawing.Point(133, 4)
+        Me.GunaLabel14.Location = New System.Drawing.Point(377, 4)
         Me.GunaLabel14.Name = "GunaLabel14"
-        Me.GunaLabel14.Size = New System.Drawing.Size(210, 32)
+        Me.GunaLabel14.Size = New System.Drawing.Size(207, 32)
         Me.GunaLabel14.TabIndex = 119
         Me.GunaLabel14.Text = "MASTER PEGAWAI"
         '
@@ -337,26 +321,6 @@ Partial Class Master_Pelanggan
         Me.TBNama.Size = New System.Drawing.Size(416, 34)
         Me.TBNama.TabIndex = 117
         Me.TBNama.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'TBuser
-        '
-        Me.TBuser.BackColor = System.Drawing.Color.Transparent
-        Me.TBuser.BaseColor = System.Drawing.Color.WhiteSmoke
-        Me.TBuser.BorderColor = System.Drawing.Color.Silver
-        Me.TBuser.BorderSize = 0
-        Me.TBuser.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.TBuser.FocusedBaseColor = System.Drawing.Color.White
-        Me.TBuser.FocusedBorderColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TBuser.FocusedForeColor = System.Drawing.SystemColors.ControlText
-        Me.TBuser.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TBuser.ForeColor = System.Drawing.Color.Black
-        Me.TBuser.Location = New System.Drawing.Point(19, 226)
-        Me.TBuser.Name = "TBuser"
-        Me.TBuser.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.TBuser.Radius = 6
-        Me.TBuser.Size = New System.Drawing.Size(417, 34)
-        Me.TBuser.TabIndex = 116
-        Me.TBuser.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TBLevel
         '
@@ -401,33 +365,6 @@ Partial Class Master_Pelanggan
         Me.GunaComboBox1.Size = New System.Drawing.Size(208, 39)
         Me.GunaComboBox1.TabIndex = 113
         '
-        'GunaButton1
-        '
-        Me.GunaButton1.AnimationHoverSpeed = 0.07!
-        Me.GunaButton1.AnimationSpeed = 0.03!
-        Me.GunaButton1.BackColor = System.Drawing.Color.Transparent
-        Me.GunaButton1.BaseColor = System.Drawing.Color.Transparent
-        Me.GunaButton1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(239, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(247, Byte), Integer))
-        Me.GunaButton1.BorderSize = 1
-        Me.GunaButton1.DialogResult = System.Windows.Forms.DialogResult.None
-        Me.GunaButton1.FocusedColor = System.Drawing.Color.Empty
-        Me.GunaButton1.Font = New System.Drawing.Font("Segoe UI", 14.0!)
-        Me.GunaButton1.ForeColor = System.Drawing.Color.Black
-        Me.GunaButton1.Image = Nothing
-        Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton1.Location = New System.Drawing.Point(17, 34)
-        Me.GunaButton1.Name = "GunaButton1"
-        Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.White
-        Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.White
-        Me.GunaButton1.OnHoverForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(233, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.GunaButton1.OnHoverImage = Nothing
-        Me.GunaButton1.OnPressedColor = System.Drawing.Color.Black
-        Me.GunaButton1.Radius = 6
-        Me.GunaButton1.Size = New System.Drawing.Size(422, 36)
-        Me.GunaButton1.TabIndex = 112
-        Me.GunaButton1.Text = "TAMBAH"
-        Me.GunaButton1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
         'GunaLabel1
         '
         Me.GunaLabel1.AutoSize = True
@@ -446,34 +383,23 @@ Partial Class Master_Pelanggan
         Me.GunaGroupBox1.BaseColor = System.Drawing.SystemColors.ActiveBorder
         Me.GunaGroupBox1.BorderColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox1.BorderSize = 3
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton1)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton6)
         Me.GunaGroupBox1.Controls.Add(Me.GunaTextBox2)
         Me.GunaGroupBox1.Controls.Add(Me.GunaLabel3)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton5)
         Me.GunaGroupBox1.Controls.Add(Me.TBuser)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton4)
         Me.GunaGroupBox1.Controls.Add(Me.GunaTextBox1)
+        Me.GunaGroupBox1.Controls.Add(Me.GunaButton3)
         Me.GunaGroupBox1.LineColor = System.Drawing.Color.Gainsboro
         Me.GunaGroupBox1.Location = New System.Drawing.Point(12, 39)
         Me.GunaGroupBox1.Name = "GunaGroupBox1"
         Me.GunaGroupBox1.Radius = 5
-        Me.GunaGroupBox1.Size = New System.Drawing.Size(453, 332)
+        Me.GunaGroupBox1.Size = New System.Drawing.Size(453, 448)
         Me.GunaGroupBox1.TabIndex = 130
         Me.GunaGroupBox1.Text = "IDENTITAS PEGAWAI"
         Me.GunaGroupBox1.TextLocation = New System.Drawing.Point(10, 8)
-        '
-        'GunaGroupBox2
-        '
-        Me.GunaGroupBox2.BackColor = System.Drawing.Color.Transparent
-        Me.GunaGroupBox2.BaseColor = System.Drawing.SystemColors.ActiveBorder
-        Me.GunaGroupBox2.BorderColor = System.Drawing.Color.Gainsboro
-        Me.GunaGroupBox2.BorderSize = 3
-        Me.GunaGroupBox2.Controls.Add(Me.GunaButton1)
-        Me.GunaGroupBox2.LineColor = System.Drawing.Color.Gainsboro
-        Me.GunaGroupBox2.Location = New System.Drawing.Point(12, 377)
-        Me.GunaGroupBox2.Name = "GunaGroupBox2"
-        Me.GunaGroupBox2.Radius = 5
-        Me.GunaGroupBox2.Size = New System.Drawing.Size(453, 251)
-        Me.GunaGroupBox2.TabIndex = 131
-        Me.GunaGroupBox2.Text = "DATA PEGAWAI"
-        Me.GunaGroupBox2.TextLocation = New System.Drawing.Point(10, 8)
         '
         'GunaTextBox2
         '
@@ -507,20 +433,94 @@ Partial Class Master_Pelanggan
         Me.GunaLabel3.TabIndex = 152
         Me.GunaLabel3.Text = "ID"
         '
-        'AxCrystalReport1
+        'TBuser
         '
-        Me.AxCrystalReport1.Enabled = True
-        Me.AxCrystalReport1.Location = New System.Drawing.Point(27, 638)
-        Me.AxCrystalReport1.Name = "AxCrystalReport1"
-        Me.AxCrystalReport1.OcxState = CType(resources.GetObject("AxCrystalReport1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxCrystalReport1.Size = New System.Drawing.Size(28, 28)
-        Me.AxCrystalReport1.TabIndex = 151
+        Me.TBuser.BackColor = System.Drawing.Color.Transparent
+        Me.TBuser.BaseColor = System.Drawing.Color.WhiteSmoke
+        Me.TBuser.BorderColor = System.Drawing.Color.Silver
+        Me.TBuser.BorderSize = 0
+        Me.TBuser.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.TBuser.FocusedBaseColor = System.Drawing.Color.White
+        Me.TBuser.FocusedBorderColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.TBuser.FocusedForeColor = System.Drawing.SystemColors.ControlText
+        Me.TBuser.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TBuser.ForeColor = System.Drawing.Color.Black
+        Me.TBuser.Location = New System.Drawing.Point(19, 226)
+        Me.TBuser.Name = "TBuser"
+        Me.TBuser.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.TBuser.Radius = 6
+        Me.TBuser.Size = New System.Drawing.Size(417, 34)
+        Me.TBuser.TabIndex = 116
+        Me.TBuser.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'GunaTextBox1
+        '
+        Me.GunaTextBox1.BackColor = System.Drawing.Color.Transparent
+        Me.GunaTextBox1.BaseColor = System.Drawing.Color.WhiteSmoke
+        Me.GunaTextBox1.BorderColor = System.Drawing.Color.Silver
+        Me.GunaTextBox1.BorderSize = 0
+        Me.GunaTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.GunaTextBox1.FocusedBaseColor = System.Drawing.Color.White
+        Me.GunaTextBox1.FocusedBorderColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.GunaTextBox1.FocusedForeColor = System.Drawing.SystemColors.ControlText
+        Me.GunaTextBox1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GunaTextBox1.ForeColor = System.Drawing.Color.Black
+        Me.GunaTextBox1.Location = New System.Drawing.Point(17, 165)
+        Me.GunaTextBox1.Name = "GunaTextBox1"
+        Me.GunaTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.GunaTextBox1.Radius = 6
+        Me.GunaTextBox1.Size = New System.Drawing.Size(417, 34)
+        Me.GunaTextBox1.TabIndex = 121
+        Me.GunaTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'GunaGroupBox2
+        '
+        Me.GunaGroupBox2.BackColor = System.Drawing.Color.Transparent
+        Me.GunaGroupBox2.BaseColor = System.Drawing.SystemColors.ActiveBorder
+        Me.GunaGroupBox2.BorderColor = System.Drawing.Color.Gainsboro
+        Me.GunaGroupBox2.BorderSize = 3
+        Me.GunaGroupBox2.Controls.Add(Me.GunaDataGridView1)
+        Me.GunaGroupBox2.LineColor = System.Drawing.Color.Gainsboro
+        Me.GunaGroupBox2.Location = New System.Drawing.Point(471, 39)
+        Me.GunaGroupBox2.Name = "GunaGroupBox2"
+        Me.GunaGroupBox2.Radius = 5
+        Me.GunaGroupBox2.Size = New System.Drawing.Size(453, 448)
+        Me.GunaGroupBox2.TabIndex = 131
+        Me.GunaGroupBox2.Text = "DATA PEGAWAI"
+        Me.GunaGroupBox2.TextLocation = New System.Drawing.Point(10, 8)
+        '
+        'GunaButton1
+        '
+        Me.GunaButton1.AnimationHoverSpeed = 0.07!
+        Me.GunaButton1.AnimationSpeed = 0.03!
+        Me.GunaButton1.BackColor = System.Drawing.Color.Transparent
+        Me.GunaButton1.BaseColor = System.Drawing.Color.Transparent
+        Me.GunaButton1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(239, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(247, Byte), Integer))
+        Me.GunaButton1.BorderSize = 1
+        Me.GunaButton1.DialogResult = System.Windows.Forms.DialogResult.None
+        Me.GunaButton1.FocusedColor = System.Drawing.Color.Empty
+        Me.GunaButton1.Font = New System.Drawing.Font("Segoe UI", 14.0!)
+        Me.GunaButton1.ForeColor = System.Drawing.Color.Black
+        Me.GunaButton1.Image = Nothing
+        Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
+        Me.GunaButton1.Location = New System.Drawing.Point(14, 345)
+        Me.GunaButton1.Name = "GunaButton1"
+        Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.White
+        Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.White
+        Me.GunaButton1.OnHoverForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(233, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.GunaButton1.OnHoverImage = Nothing
+        Me.GunaButton1.OnPressedColor = System.Drawing.Color.Black
+        Me.GunaButton1.Radius = 6
+        Me.GunaButton1.Size = New System.Drawing.Size(422, 36)
+        Me.GunaButton1.TabIndex = 112
+        Me.GunaButton1.Text = "TAMBAH"
+        Me.GunaButton1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Master_Pelanggan
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(477, 678)
+        Me.ClientSize = New System.Drawing.Size(935, 499)
         Me.Controls.Add(Me.GunaLinePanel1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Master_Pelanggan"
@@ -528,11 +528,11 @@ Partial Class Master_Pelanggan
         Me.Text = "Master_Pelanggan"
         Me.GunaLinePanel1.ResumeLayout(False)
         Me.GunaLinePanel1.PerformLayout()
+        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.GunaDataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GunaGroupBox1.ResumeLayout(False)
         Me.GunaGroupBox1.PerformLayout()
         Me.GunaGroupBox2.ResumeLayout(False)
-        CType(Me.AxCrystalReport1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

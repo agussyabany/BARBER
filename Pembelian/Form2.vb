@@ -3,31 +3,21 @@ Public Class Form2
     Dim TglMySQL As String
     Sub hairstylist()
         Call Koneksi()
-        GunaComboBox1.Items.Clear()
-        Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN= '" & GunaComboBox3.Text & "' ", Conn)
+        GCPegawai.Items.Clear()
+        Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN= '" & GCjabat.Text & "' ", Conn)
         Rd = Cmd.ExecuteReader
         Do While Rd.Read
-            GunaComboBox1.Items.Add(Rd.Item(0))
+            GCPegawai.Items.Add(Rd.Item(0))
         Loop
     End Sub
-    Sub fee()
-        'TBfee.Text = TBomz.Text * Val(40 / 100)
-    End Sub
-    Sub fee2()
-        TBfee.Text = TBomz.Text * Val(32 / 100)
-    End Sub
-    Sub feeCaps()
-        TBfee.Text = TBomz.Text * Val(15 / 100)
-    End Sub
-    Sub feeProd()
-        TextBox1.Text = LBLbr.Text * 15000
-    End Sub
+    
 
     Sub kondisiAwal()
-       
-        GunaComboBox3.Items.Add("HAIR STYLIST")
-        GunaComboBox3.Items.Add("CAPSTER")
-        GunaComboBox3.Items.Add("HAIRSTYLIST2")
+        GunaLabel7.Visible = False
+        GCjabat.Items.Clear()
+        GCjabat.Items.Add("HAIR STYLIST")
+        GCjabat.Items.Add("CAPSTER")
+        GCjabat.Items.Add("BARBER")
 
 
         DateTimePicker1.Format = DateTimePickerFormat.Custom
@@ -37,38 +27,31 @@ Public Class Form2
         DateTimePicker1.Visible = False
         DateTimePicker2.Visible = False
 
-        GCjenis.Items.Clear()
-        GCjenis.Items.Add("SEMUA DATA")
-        GCjenis.Items.Add("TAHUN")
-        GCjenis.Items.Add("BULAN")
-        GCjenis.Items.Add("TANGGAL")
-        GunaComboBox2.Visible = False
-        GunaNumeric2.Visible = False
-        GunaComboBox2.Items.Clear()
-        GunaComboBox2.Items.Add("1")
-        GunaComboBox2.Items.Add("2")
-        GunaComboBox2.Items.Add("3")
-        GunaComboBox2.Items.Add("4")
-        GunaComboBox2.Items.Add("5")
-        GunaComboBox2.Items.Add("6")
-        GunaComboBox2.Items.Add("7")
-        GunaComboBox2.Items.Add("8")
-        GunaComboBox2.Items.Add("9")
-        GunaComboBox2.Items.Add("10")
-        GunaComboBox2.Items.Add("11")
-        GunaComboBox2.Items.Add("12")
+        GCFilrter.Items.Clear()
+        GCFilrter.Items.Add("SEMUA DATA")
+        GCFilrter.Items.Add("TAHUN")
+        GCFilrter.Items.Add("BULAN")
+        GCFilrter.Items.Add("TANGGAL")
+        GCBln.Visible = False
+        GNThn.Visible = False
+        GCBln.Items.Clear()
+        GCBln.Items.Add("1")
+        GCBln.Items.Add("2")
+        GCBln.Items.Add("3")
+        GCBln.Items.Add("4")
+        GCBln.Items.Add("5")
+        GCBln.Items.Add("6")
+        GCBln.Items.Add("7")
+        GCBln.Items.Add("8")
+        GCBln.Items.Add("9")
+        GCBln.Items.Add("10")
+        GCBln.Items.Add("11")
+        GCBln.Items.Add("12")
 
 
 
     End Sub
-    Sub totalFEE()
-        Try
-            TextBox2.Text = Val(Microsoft.VisualBasic.Int(TBfee.Text)) + Val(Microsoft.VisualBasic.Int(TextBox1.Text))
-        Catch ex As Exception
-
-        End Try
-
-    End Sub
+    
     Sub jumlah()
         Dim A As Integer
         For line As Integer = 0 To GunaDataGridView1.RowCount - 1
@@ -113,22 +96,22 @@ Public Class Form2
     End Sub
 
     Private Sub Form2_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        
+
         'Call hairstylist()
         Call kondisiAwal()
 
     End Sub
 
-    Private Sub GCjenis_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCjenis.SelectedIndexChanged
-        If GCjenis.Text = "SEMUA DATA" Then
+    Private Sub GCjenis_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCFilrter.SelectedIndexChanged
+        If GCFilrter.Text = "SEMUA DATA" Then
             GunaLabel7.Visible = False
-            GunaComboBox2.Visible = False
-            GunaNumeric2.Visible = False
+            GCBln.Visible = False
+            GNThn.Visible = False
             DateTimePicker1.Visible = False
             DateTimePicker2.Visible = False
 
             Call Koneksi()
-            Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+            Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GCPegawai.Text & "'", Conn)
             Ds = New DataSet
             Da.Fill(Ds, "detaillayan")
             GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
@@ -136,32 +119,31 @@ Public Class Form2
             Call jumlah()
             Call jumlahTR()
             'Call fee()
-            Call totalFEE()
+
 
             Call Koneksi()
-            Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+            Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GCPegawai.Text & "'", Conn)
             Ds = New DataSet
             Da.Fill(Ds, "detailjual")
             GunaDataGridView2.DataSource = Ds.Tables("detailjual")
             GunaDataGridView2.ReadOnly = True
             Call jumlahProd()
             Call jumlahTRProd()
-            Call feeProd()
-            Call totalFEE()
+            
         Else
-            If GCjenis.Text = "TANGGAL" Then
+            If GCFilrter.Text = "TANGGAL" Then
                 GunaLabel7.Visible = True
                 GunaLabel7.Text = "TANGGAL"
-                GunaComboBox2.Visible = False
-                GunaNumeric2.Visible = False
+                GCBln.Visible = False
+                GNThn.Visible = False
                 DateTimePicker1.Visible = True
                 DateTimePicker2.Visible = True
             Else
-                If GCjenis.Text = "BULAN" Then
+                If GCFilrter.Text = "BULAN" Then
                     GunaLabel7.Visible = True
                     GunaLabel7.Text = "BULAN DAN TAHUN"
-                    GunaComboBox2.Visible = True
-                    GunaNumeric2.Visible = True
+                    GCBln.Visible = True
+                    GNThn.Visible = True
                     DateTimePicker1.Visible = False
                     DateTimePicker2.Visible = False
 
@@ -173,32 +155,31 @@ Public Class Form2
 
     Private Sub DateTimePicker1_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles DateTimePicker1.ValueChanged
         Call Koneksi()
-        Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+        Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
         Ds = New DataSet
         Da.Fill(Ds, "detaillayan")
         GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
         GunaDataGridView1.ReadOnly = True
         Call jumlah()
         Call jumlahTR()
-        'Call fee()
-        Call totalFEE()
+
+
 
         Call Koneksi()
-        Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+        Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
         Ds = New DataSet
         Da.Fill(Ds, "detailjual")
         GunaDataGridView2.DataSource = Ds.Tables("detailjual")
         GunaDataGridView2.ReadOnly = True
         Call jumlahProd()
         Call jumlahTRProd()
-        Call feeProd()
-        Call totalFEE()
+       
     End Sub
 
-    Private Sub GunaComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaComboBox1.SelectedIndexChanged
+    Private Sub GCPegawai_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCPegawai.SelectedIndexChanged
         If DateTimePicker1.Visible = True Then
             Call Koneksi()
-            Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL= '" & DateTimePicker1.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+            Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL= '" & DateTimePicker1.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
             Ds = New DataSet
             Da.Fill(Ds, "detaillayan")
             GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
@@ -206,72 +187,67 @@ Public Class Form2
             Call jumlah()
             Call jumlahTR()
             'Call fee()
-            Call totalFEE()
+
 
             Call Koneksi()
-            Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL= '" & DateTimePicker1.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+            Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL= '" & DateTimePicker1.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
             Ds = New DataSet
             Da.Fill(Ds, "detailjual")
             GunaDataGridView2.DataSource = Ds.Tables("detailjual")
             GunaDataGridView2.ReadOnly = True
             Call jumlahProd()
             Call jumlahTRProd()
-            Call feeProd()
-            Call totalFEE()
+            
         Else
-            If GCjenis.Text = "SEMUA DATA" Then
+            If GCFilrter.Text = "SEMUA DATA" Then
                 Call Koneksi()
-                Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+                Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where PEGAWAI='" & GCPegawai.Text & "'", Conn)
                 Ds = New DataSet
                 Da.Fill(Ds, "detaillayan")
                 GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
                 GunaDataGridView1.ReadOnly = True
                 Call jumlah()
                 Call jumlahTR()
-                'Call fee()
-                Call totalFEE()
+               
 
                 Call Koneksi()
-                Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+                Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where PEGAWAI='" & GCPegawai.Text & "'", Conn)
                 Ds = New DataSet
                 Da.Fill(Ds, "detailjual")
                 GunaDataGridView2.DataSource = Ds.Tables("detailjual")
                 GunaDataGridView2.ReadOnly = True
                 Call jumlahProd()
                 Call jumlahTRProd()
-                Call feeProd()
-                Call totalFEE()
+               
             Else
-                If GCjenis.Text = "BULAN" Then
+                If GCFilrter.Text = "BULAN" Then
                     Call Koneksi()
-                    Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where MONTH(TANGGAL)= '" & GunaComboBox2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "' and YEAR(TANGGAL)='" & GunaNumeric2.Text & "' ", Conn)
+                    Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where YEAR(TANGGAL)='" & GNThn.Value & "'  and PEGAWAI='" & GCPegawai.Text & "' and MONTH(TANGGAL)= '" & GCBln.Text & "'", Conn)
                     Ds = New DataSet
                     Da.Fill(Ds, "detaillayan")
                     GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
                     GunaDataGridView1.ReadOnly = True
                     Call jumlah()
                     Call jumlahTR()
-                    'Call fee()
-                    Call totalFEE()
+                    
 
                     Call Koneksi()
-                    Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where  MONTH(TANGGAL)= '" & GunaComboBox2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "' and YEAR(TANGGAL)='" & GunaNumeric2.Text & "'", Conn)
+                    Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where  MONTH(TANGGAL)= '" & GCBln.Text & "' and PEGAWAI='" & GCPegawai.Text & "' and YEAR(TANGGAL)='" & GNThn.Value & "'", Conn)
                     Ds = New DataSet
                     Da.Fill(Ds, "detailjual")
                     GunaDataGridView2.DataSource = Ds.Tables("detailjual")
                     GunaDataGridView2.ReadOnly = True
                     Call jumlahProd()
                     Call jumlahTRProd()
-                    Call feeProd()
-                    Call totalFEE()
+                    
                 End If
             End If
         End If
-        Cmd = New OdbcCommand("Select * from pegawai where NAMA ='" & GunaComboBox1.Text & "'", Conn)
+        Cmd = New OdbcCommand("Select * from pegawai where NAMA ='" & GCPegawai.Text & "'", Conn)
         Rd = Cmd.ExecuteReader
         Rd.Read()
 
-        GunaLabel11.Text = Rd.Item("NOHP")
+
 
     End Sub
 
@@ -283,16 +259,7 @@ Public Class Form2
 
     End Sub
 
-    Private Sub TBfee_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TBfee.TextChanged
-        Try
-            If TBfee.Text.Trim() <> "" Then
-                TBfee.Text = CDec(TBfee.Text).ToString("N0")
-                TBfee.SelectionStart = TBfee.TextLength
-            End If
-        Catch ex As Exception
-
-        End Try
-    End Sub
+   
 
     Private Sub TBomz_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TBomz.TextChanged
         Try
@@ -305,55 +272,36 @@ Public Class Form2
         End Try
     End Sub
 
-    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
-        Try
-            If TextBox1.Text.Trim() <> "" Then
-                TextBox1.Text = CDec(TextBox1.Text).ToString("N0")
-                TextBox1.SelectionStart = TextBox1.TextLength
-            End If
-        Catch ex As Exception
+   
 
-        End Try
-    End Sub
-
-    Private Sub GunaComboBox2_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaComboBox2.SelectedIndexChanged
+    Private Sub GunaComboBox2_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCBln.SelectedIndexChanged
 
     End Sub
 
     Private Sub DateTimePicker2_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles DateTimePicker2.ValueChanged
         Call Koneksi()
-        Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+        Da = New OdbcDataAdapter("SELECT jual.TANGGAL,jual.JAM,pelanggan.NAMA,layanan.LAYANAN,detaillayan.JUMLAH,detaillayan.TOTAL From(detaillayan) LEFT JOIN layanan ON detaillayan.KODEL=layanan.KODEL LEFT JOIN jual ON detaillayan.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
         Ds = New DataSet
         Da.Fill(Ds, "detaillayan")
         GunaDataGridView1.DataSource = Ds.Tables("detaillayan")
         GunaDataGridView1.ReadOnly = True
         Call jumlah()
         Call jumlahTR()
-        'Call fee()
-        Call totalFEE()
+
+
 
         Call Koneksi()
-        Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GunaComboBox1.Text & "'", Conn)
+        Da = New OdbcDataAdapter("SELECT barang.NAMA,barang.MERK,jual.TANGGAL,pelanggan.NAMA,detailjual.HARGA,detailjual.PEGAWAI From(detailjual) LEFT JOIN barang ON detailjual.KODE=barang.KODE LEFT JOIN jual ON detailjual.IDJUAL=jual.IDJUAL LEFT JOIN pelanggan ON jual.NOHP=pelanggan.NOHP Where TANGGAL between '" & DateTimePicker1.Text & "' and '" & DateTimePicker2.Text & "' and PEGAWAI='" & GCPegawai.Text & "'", Conn)
         Ds = New DataSet
         Da.Fill(Ds, "detailjual")
         GunaDataGridView2.DataSource = Ds.Tables("detailjual")
         GunaDataGridView2.ReadOnly = True
         Call jumlahProd()
         Call jumlahTRProd()
-        Call feeProd()
-        Call totalFEE()
+        
     End Sub
 
-    Private Sub TextBox2_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox2.TextChanged
-        Try
-            If TextBox2.Text.Trim() <> "" Then
-                TextBox2.Text = CDec(TextBox2.Text).ToString("N0")
-                TextBox2.SelectionStart = TextBox2.TextLength
-            End If
-        Catch ex As Exception
-
-        End Try
-    End Sub
+    
 
     Private Sub TBtot_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TBtot.TextChanged
         Try
@@ -370,54 +318,58 @@ Public Class Form2
 
     End Sub
 
-    Private Sub GunaButton5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaButton5.Click
-        If GCjenis.Text = "" Or GunaComboBox1.Text = "" Or TBomz.Text = "" Or GunaLabel6.Text = "" Or TBfee.Text = "" Or TextBox1.Text = "" Or TextBox2.Text = "" Or LBLbr.Text = "" Or TBtot.Text = "" Then
-            MsgBox("DATA TIDAK LENGKAP")
-        Else
-            TglMySQL = Format(Today, "yyyy-MM-dd")
-            Dim SimpanFee As String = "Insert into fee (PEGAWAI,TGL,BULAN,OMZET,TRANSLAYAN,PRODUK,TRANSPRODUK,FEEPRODUK,FEELAYAN,TOTAL) values ('" & GunaComboBox1.Text & "','" & TglMySQL & "','" & GunaComboBox2.Text & "','" & Val(Microsoft.VisualBasic.Int(TBomz.Text)) & "','" & Val(Microsoft.VisualBasic.Int(GunaLabel6.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TBtot.Text)) & "','" & Val(Microsoft.VisualBasic.Int(LBLbr.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TextBox1.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TBfee.Text)) & "' ,'" & Val(Microsoft.VisualBasic.Int(TextBox2.Text)) & "')"
-            Cmd = New OdbcCommand(SimpanFee, Conn)
-            Cmd.ExecuteNonQuery()
-            MsgBox("FEE SUDAH DIPROSES")
-            WAgaji.ShowDialog()
-        End If
-    End Sub
+    'Private Sub GunaButton5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaButton5.Click
+    '    'If GCFilrter.Text = "" Or GCPegawai.Text = "" Or TBomz.Text = "" Or GunaLabel6.Text = "" Or TBfee.Text = "" Or TextBox1.Text = "" Or TextBox2.Text = "" Or LBLbr.Text = "" Or TBtot.Text = "" Then
+    '    '    MsgBox("DATA TIDAK LENGKAP")
+    '    'Else
+    '    '    TglMySQL = Format(Today, "yyyy-MM-dd")
+    '    '    Dim SimpanFee As String = "Insert into fee (PEGAWAI,TGL,BULAN,OMZET,TRANSLAYAN,PRODUK,TRANSPRODUK,FEEPRODUK,FEELAYAN,TOTAL) values ('" & GCPegawai.Text & "','" & TglMySQL & "','" & GCBln.Text & "','" & Val(Microsoft.VisualBasic.Int(TBomz.Text)) & "','" & Val(Microsoft.VisualBasic.Int(GunaLabel6.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TBtot.Text)) & "','" & Val(Microsoft.VisualBasic.Int(LBLbr.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TextBox1.Text)) & "','" & Val(Microsoft.VisualBasic.Int(TBfee.Text)) & "' ,'" & Val(Microsoft.VisualBasic.Int(TextBox2.Text)) & "')"
+    '    '    Cmd = New OdbcCommand(SimpanFee, Conn)
+    '    '    Cmd.ExecuteNonQuery()
+    '    '    MsgBox("FEE SUDAH DIPROSES")
+    '    '    WAgaji.ShowDialog()
+    '    'End If
+    'End Sub
 
-    Private Sub GunaComboBox3_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GunaComboBox3.SelectedIndexChanged
-        If GunaComboBox3.Text = "HAIR STYLIST" Then
-            Call fee()
+    Private Sub GunaComboBox3_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCjabat.SelectedIndexChanged
+        If GCjabat.Text = "HAIR STYLIST" Then
+
             Call Koneksi()
-            GunaComboBox1.Items.Clear()
+            GCPegawai.Items.Clear()
             Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN='HAIR STYLIST'", Conn)
             Rd = Cmd.ExecuteReader
             Do While Rd.Read
-                GunaComboBox1.Items.Add(Rd.Item(0))
+                GCPegawai.Items.Add(Rd.Item(0))
             Loop
 
         End If
 
-        If GunaComboBox3.Text = "HAIRSTYLIST2" Then
-            Call fee2()
+        If GCjabat.Text = "BARBER" Then
+
             Call Koneksi()
-            GunaComboBox1.Items.Clear()
-            Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN='HAIRSTYLIST2'", Conn)
+            GCPegawai.Items.Clear()
+            Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN='BARBER'", Conn)
             Rd = Cmd.ExecuteReader
             Do While Rd.Read
-                GunaComboBox1.Items.Add(Rd.Item(0))
+                GCPegawai.Items.Add(Rd.Item(0))
             Loop
 
         End If
 
-        If GunaComboBox3.Text = "CAPSTER" Then
-            Call feeCaps()
+        If GCjabat.Text = "CAPSTER" Then
+
             Call Koneksi()
-            GunaComboBox1.Items.Clear()
+            GCPegawai.Items.Clear()
             Cmd = New OdbcCommand("Select NAMA from pegawai where JABATAN='CAPSTER'", Conn)
             Rd = Cmd.ExecuteReader
             Do While Rd.Read
-                GunaComboBox1.Items.Add(Rd.Item(0))
+                GCPegawai.Items.Add(Rd.Item(0))
             Loop
 
         End If
+    End Sub
+
+    Private Sub GunaNumeric2_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GNThn.ValueChanged
+
     End Sub
 End Class

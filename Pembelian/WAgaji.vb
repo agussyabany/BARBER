@@ -12,9 +12,9 @@ Public Class WAgaji
     End Sub
 
     Sub KondisiAwal()
-        TBhareg.Text = Form2.GunaLabel11.Text
+
         'GunaTextBox2.Text = Penjualan.TBfaktur.Text
-        Call isibox()
+        'Call isibox()
 
     End Sub
     Sub isibox()
@@ -37,12 +37,12 @@ Public Class WAgaji
 
         'End If
 
-        Dim pesan As String = ""
+        'Dim pesan As String = ""
 
-        Dim DATANYA = "JORDAN+HAIR+STUDIO%0D%0A0811584523%0D%0AOUTLET%0D%0AJl.+Imam+Bonjol+%0D%0ASamarinda+Kaltim%0D%0A-------------------------------------------------%0D%0A%0D%0AKepada+yang+terhormat+Bapak%2FIbu++Rekan+Dan+Karyawan+%0D%0AJORDAN+HAIR+STUDIO%F0%9F%99%8F+Berikut+adalah+Laporan++Fee+Dan+Atau+Gajih+Bulan+%3A%0D%0A" + Form2.GunaComboBox2.Text + "-------------------------------------------------%0D%0ANAMA+%3A+" + Form2.GunaComboBox1.Text + "%0D%0ANo.+Telp+" + Form2.GunaLabel11.Text + "%0D%0A-------------------------------------------------%0D%0ATotal+Layanan+++++++++++%3A++" + Form2.TBomz.Text + "%0D%0ATransaksi+Layanan+++%3A++" + Form2.GunaLabel6.Text + "%0D%0ATransaksi+Produk+++++%3A+++" + Form2.LBLbr.Text + "%0D%0A+%3A+%0D%0A-------------------------------------------------%0D%0AFee+Layanan+40%25+%3A++" + Form2.TBfee.Text + "%0D%0AFee+Produk++++++++++++%3A++" + Form2.TextBox1.Text + "%0D%0A%0D%0A-------------------------------------------------%0D%0ASUBTOTAL+++%3A++" + Form2.TextBox2.Text + "%0D%0APOTONGAN+%3A+0%0D%0ATOTAL+%3A+" + Form2.TextBox2.Text + "%2CA%0D%0A%0D%0A-------------------------------------------------%0D%0ATETAP+SEMANGAT%21%21%0D%0A-------------------------------------------------%0D%0ACatatan+%3A"
-        pesan = pesan & "" & Environment.NewLine & DATANYA & "" & Environment.NewLine
+        'Dim DATANYA = "JORDAN+HAIR+STUDIO%0D%0A0811584523%0D%0AOUTLET%0D%0AJl.+Imam+Bonjol+%0D%0ASamarinda+Kaltim%0D%0A-------------------------------------------------%0D%0A%0D%0AKepada+yang+terhormat+Bapak%2FIbu++Rekan+Dan+Karyawan+%0D%0AJORDAN+HAIR+STUDIO%F0%9F%99%8F+Berikut+adalah+Laporan++Fee+Dan+Atau+Gajih+Bulan+%3A%0D%0A" + Form2.GCBln.Text + "-------------------------------------------------%0D%0ANAMA+%3A+" + Form2.GCPegawai.Text + "%0D%0ANo.+Telp+" + Form2.GunaLabel11.Text + "%0D%0A-------------------------------------------------%0D%0ATotal+Layanan+++++++++++%3A++" + Form2.TBomz.Text + "%0D%0ATransaksi+Layanan+++%3A++" + Form2.GunaLabel6.Text + "%0D%0ATransaksi+Produk+++++%3A+++" + Form2.LBLbr.Text + "%0D%0A+%3A+%0D%0A-------------------------------------------------%0D%0AFee+Layanan+40%25+%3A++" + Form2.TBfee.Text + "%0D%0AFee+Produk++++++++++++%3A++" + Form2.TextBox1.Text + "%0D%0A%0D%0A-------------------------------------------------%0D%0ASUBTOTAL+++%3A++" + Form2.TextBox2.Text + "%0D%0APOTONGAN+%3A+0%0D%0ATOTAL+%3A+" + Form2.TextBox2.Text + "%2CA%0D%0A%0D%0A-------------------------------------------------%0D%0ATETAP+SEMANGAT%21%21%0D%0A-------------------------------------------------%0D%0ACatatan+%3A"
+        'pesan = pesan & "" & Environment.NewLine & DATANYA & "" & Environment.NewLine
 
-        GunaTextBox1.Text = pesan
+        'GunaTextBox1.Text = pesan
 
 
 
